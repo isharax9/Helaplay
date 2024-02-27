@@ -151,8 +151,7 @@
             <div class="row ">
                 <div class="col-md-11 small-margin">
                     <p>Here at Strider games we pride ourselves in delivering rich and polished experiences that our
-                        fanbase can enjoy and immerse themselve into. Lorem ipsum dolor sit amet, consectetur adipiscing
-                        elit. Suspendisse facilisis rhoncus nibh.</p>
+                        fanbase can enjoy and immerse themselve into. </p>
                 </div>
                 <div class="col-md-12">
                     <ul class="game-tags">
