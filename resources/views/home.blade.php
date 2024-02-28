@@ -127,8 +127,42 @@
             </div>
             <div class="row">
                 <div class="col-md-6">
-                    <p class="small-margin">We are a dedicated team of developers, designers, artists, programmers, and
-                        most importantly gaming enthusiasts.</p>
+                    <h2>Welcome to Helaplay Studio INC!</h2>
+                    
+                    <p>At Helaplay Studio INC, we are dedicated to crafting immersive and unforgettable gaming experiences that resonate with
+                    players worldwide. Our journey began with a shared passion for gaming and a vision to redefine interactive
+                    entertainment.
+                    </p>
+                    <h3>Our Mission</h3>
+                    
+                    Our mission at Helaplay Studio INC is to push the boundaries of gaming excellence. We are committed to creating
+                    captivating worlds, compelling narratives, and groundbreaking gameplay mechanics that captivate players and leave a
+                    lasting impression.
+                    
+                    <h3>Our Vision</h3>
+                    
+                    We envision a future where gaming transcends boundaries to become a powerful medium for storytelling, social
+                    interaction, and personal expression. By embracing innovation and creativity, we aim to shape the future of gaming and
+                    inspire generations to come.
+                    
+                    <h3>Our Team</h3>
+                    
+                    Behind every great game is a team of passionate individuals united by a shared love for gaming. Meet the talented team
+                    at Helaplay Studio INC, a diverse group of developers, artists, storytellers, and visionaries dedicated to bringing our
+                    games to life with skill, dedication, and boundless creativity.
+                
+                    <h3>Our Values</h3>
+                    
+                    Integrity, innovation, and inclusivity are the cornerstones of our company culture. At Helaplay Studio INC, we believe
+                    in fostering a collaborative and inclusive environment where every voice is heard, and every idea is valued. By
+                    upholding these values, we strive to create a culture where creativity thrives, and innovation flourishes.
+                    
+                    <h3>Join Us</h3>
+                    
+                    Are you ready to embark on an exciting journey into the world of gaming? Whether you're a seasoned developer, a talented
+                    artist, or a passionate gamer with a story to tell, we invite you to join us on our quest to create the next generation
+                    of gaming experiences. Together, we can redefine the future of interactive entertainment and leave a lasting legacy in
+                    the world of gaming.
                     <img id="awards" src="images/awards.png" class="img-fluid" alt="awads">
                 </div>
                 <div class="col-md-6">
@@ -522,17 +556,19 @@
             </div>
             <div class="row medium-margin">
                 <div class="col-md-11 tiny-margin">
-                    <p>Our passion unites us. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus
-                        tincidunt mi ut mauris varius, vitae lobortis erat ullamcorper. Pellentesque vel dolor non nisi
-                        fringilla scelerisque in non ante.</p>
+                    <p>Behind every great game is a team of passionate individuals united by a shared love for gaming. Meet the talented team
+                    at Helaplay Studio INC, a diverse group of developers, artists, storytellers, and visionaries dedicated to bringing our
+                    games to life with skill, dedication, and boundless creativity.</p>
                 </div>
                 <div id="full-row" class="row text-center">
                     <div class="col-md-3 team-card">
                         <figure>
-                            <img src="images/placeholder.jpg" data-src="images/team1.jpg" class="img-fluid b-lazy"
+                            <img src="images/team/ishara.png" data-src="images/team1.jpg" class="img-fluid b-lazy"
                                 alt="teammember">
                             <figcaption class="team-caption">
-                                <p>“Lorem ipsum dolor sit amet, consectetur adipiscing elit.”</p>
+                                <p>
+                                <br>Full Stack SE Explorer🌱
+                                <br>Web Weaver & Reliability Guardian!</p>
                                 <hr class="hr-short">
                                 <ul>
                                     <li><a href="#"><i class="fa fa-facebook fa-lg"></i></a></li>
@@ -541,8 +577,8 @@
                                 </ul>
                             </figcaption>
                         </figure>
-                        <p class="team-name">Vladimir M.</p>
-                        <p class="subtle">Lead Designer</p>
+                        <p class="team-name">Ishara Lakshitha</p>
+                        <p class="subtle">CEO</p>
                     </div>
                     <div class="col-md-3 team-card">
                         <figure>
