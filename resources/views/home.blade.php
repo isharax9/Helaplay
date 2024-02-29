@@ -163,12 +163,13 @@
                     artist, or a passionate gamer with a story to tell, we invite you to join us on our quest to create the next generation
                     of gaming experiences. Together, we can redefine the future of interactive entertainment and leave a lasting legacy in
                     the world of gaming.
-                    <img id="awards" src="images/awards.png" class="img-fluid" alt="awads">
+                    
                 </div>
                 <div class="col-md-6">
-                    <img id="support-image" src="images/company.jpg" data-src="images/digital_collage.png"
-                        class="img-fluid b-lazy" alt="digital collage">
-                </div>
+                    <img id="support-image" src="images/company.jpg" data-src="images/digital_collage.png" class="img-fluid b-lazy" alt="digital collage"> <br>
+                    
+                </div> 
+                
             </div>
         </div>
         <!-- /// GAMES SECTION /// -->
@@ -201,24 +202,27 @@
                 <!-- Game Card Video -->
                 <div class="row game-card pc new">
                     <div class="col-lg-12 col-xl-5 game-card-left">
-                        <a href="#" class="js-video-button" data-video-id='DPBW_MFqeRs' data-channel="youtube">
+                        <a href="https://lovely-nougat-0e9d0f.netlify.app/1" class="js-play-button" data-video-id='' data-channel="">
                             <!-- Video link goes here -->
                             <div class="overlay">
                                 <i class="fa fa-play fa-3x"></i>
                             </div>
-                            <img src="images/placeholder.jpg" data-src="images/game3.jpg" class="img-fluid b-lazy"
+                            <img src="/public/images/game-icons/1.webp" data-src="/images/game-icons/1.webp" class="img-fluid b-lazy"
                                 alt="video thumbnail"> <!-- Video Thumbnail Img -->
                         </a>
                     </div>
                     <div class="col-lg-12 col-xl-7 game-card-right">
-                        <h2 class="short-hr-left">SWORDS &amp; SCLAES - DRAGON RISING</h2>
+                        <h2 class="short-hr-left">Kana Mutti</h2>
                         <p class="tags"><span class="subtle">Action RPG | PC</span> </p>
-                        <p class="game-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-                            facilisis rhoncus nibh. Phasellus dignissim luctus consectetur. Fusce viverra est non purus
-                            ultrices, vel molestie massa tincidunt. <span class="expand colored strong"
+                        <p class="game-description">This is one of the most essential games in New Year Festival thus popular among the young and the elder. Two parallel
+                        pillars mounted in a land is connected via a rope and similar clay pots filled with blue water and one pot is filled
+                        with ink and hanged in the rope. This differs from area to area and sometimes only one pot is hanged in the middle of
+                        the rope in some areas.
+                        
+                       <span class="expand colored strong"
                                 data-toggle="modal" data-target="#game1">Read More</span></p>
                         <div class="steam-btn">
-                            <a href="#">
+                            <a href="https://lovely-nougat-0e9d0f.netlify.app/1">
                                 <i class="fa fa-steam fa-3x"></i>
                                 <p>GET IT ON <br><span class="spaced">STEAM</span></p>
                             </a>
@@ -250,32 +254,25 @@
                         <div class="modal-dialog modal-lg" role="document">
                             <div class="modal-content">
                                 <div class="modal-header">
-                                    <h1 class="modal-title" id="scales">SWORDS &amp; SCALES</h1>
+                                    <h1 class="modal-title" id="scales">Kana Mutti</h1>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                         <span aria-hidden="true">&times;</span>
                                     </button>
                                 </div>
                                 <div class="modal-body">
-                                    <h2 class="short-hr-left">TEAM UP AND FIGHT DRAGONS</h2>
-                                    <p>Integer eget diam felis. Quisque et aliquet lectus, et lacinia turpis. Praesent
-                                        eget pretium orci. Sed vestibulum rutrum volutpat. Curabitur feugiat arcu odio,
-                                        quis convallis eros laoreet ac.</p>
-                                    <img class="img-fluid" src="images/game3.1.jpg" alt="screenshot">
+                                    <h2 class="short-hr-left">බිදින්න දිනන්න.</h2>
+                                    <p>This is one of the most essential games in New Year Festival thus popular among the young and the elder. Two parallel
+                                    pillars mounted in a land is connected via a rope and similar clay pots filled with blue water and one pot is filled
+                                    with ink and hanged in the rope. This differs from area to area and sometimes only one pot is hanged in the middle of
+                                    the rope in some areas.
+                                    </p>
                                     <br>
-                                    <h2 class="short-hr-left">MAKE FRIENDS</h2>
-                                    <p>Suspendisse ultricies, dui vitae convallis blandit, ipsum sem mattis diam, in
-                                        egestas arcu lacus sed lectus. Donec at interdum tellus. Quisque pellentesque a
-                                        felis et rutrum. Donec condimentum magna sit amet viverra convallis. Fusce
-                                        accumsan efficitur orci a commodo.</p>
-                                    <img class="img-fluid" src="images/game3.2.jpg" alt="screenshot">
-                                    <br>
-                                    <h2 class="short-hr-left">TRAIN YOUR DRAGON</h2>
-                                    <p>Mauris at sapien nibh. Integer id tellus vitae ante cursus pharetra. Vestibulum
-                                        ultrices eleifend enim, quis maximus nibh dapibus in. Phasellus lacinia nec leo
-                                        at semper. Duis nisl odio, lacinia quis dui at, pretium tincidunt metus.
-                                        Maecenas condimentum purus sit amet neque maximus tempor. Proin eros massa,
-                                        ullamcorper eget rutrum eu, feugiat id purus.</p>
-                                </div>
+                                    
+                                    The nature of this game is to tie a piece of cloth around the eyes of the contester and rotate them on the spot, give a
+                                    bar to his/her hand and release.To win one should attack the correct pot at once and break it.One contester gets only
+                                    one chance.
+                                    <!-- <img class="img-fluid" src="/images/3.webp"> -->
+                                   
                                 <div class="modal-footer">
                                     <button type="button" class="button secondary" data-dismiss="modal">Close</button>
                                 </div>
@@ -287,21 +284,21 @@
                 <!-- Game Card Video -->
                 <div class="row game-card mobile new">
                     <div class="col-lg-12 col-xl-5 game-card-left">
-                        <a href="#" class="js-video-button" data-video-id='285232623' data-channel="vimeo">
+                        <a href="https://lovely-nougat-0e9d0f.netlify.app/2" class="js-play-button" data-video-id='' data-channel="">
                             <!-- Video link goes here -->
                             <div class="overlay">
                                 <i class="fa fa-play fa-3x"></i>
                             </div>
-                            <img src="images/placeholder.jpg" data-src="images/game4.jpg" class="img-fluid b-lazy"
+                            <img src="images/game-icons/2.webp" data-src="images/game4.jpg" class="img-fluid b-lazy"
                                 alt="video thumbnail"> <!-- Video Thumbnail Img -->
                         </a>
                     </div>
                     <div class="col-lg-12 col-xl-7 game-card-right">
-                        <h2 class="short-hr-left">BEDLAMBORNE</h2>
+                        <h2 class="short-hr-left">Kotta Pora</h2>
                         <p class="tags"><span class="subtle">Horror Adventure | Mobile</span> </p>
-                        <p class="game-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-                            facilisis rhoncus nibh. Phasellus dignissim luctus consectetur. Fusce viverra est non purus
-                            ultrices, vel molestie massa tincidunt. <span class="expand colored strong"
+                        <p class="game-description">You might be familiar with pillow fighting from childhood sleepovers, but in Sri Lanka, fighting with pillows is
+                        elevated to a major athletic event. Both players balance, seated, on a wooden beam, with one hand on their pillow and
+                        the other hand tied behind their back.  <span class="expand colored strong"
                                 data-toggle="modal" data-target="#game2">Read More</span></p>
                         <a href="#" class="button-store">
                             <i class="fa fa-android fa-2x"></i>
@@ -328,31 +325,20 @@
                         <div class="modal-dialog modal-lg" role="document">
                             <div class="modal-content">
                                 <div class="modal-header">
-                                    <h1 class="modal-title" id="bedlam">BEDLAMBORNE</h1>
+                                    <h1 class="modal-title" id="bedlam">Kotta Pora</h1>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                         <span aria-hidden="true">&times;</span>
                                     </button>
                                 </div>
                                 <div class="modal-body">
-                                    <h2 class="short-hr-left">A DARK WORLD</h2>
-                                    <p>Integer eget diam felis. Quisque et aliquet lectus, et lacinia turpis. Praesent
-                                        eget pretium orci. Sed vestibulum rutrum volutpat. Curabitur feugiat arcu odio,
-                                        quis convallis eros laoreet ac.</p>
-                                    <img class="img-fluid" src="images/game4.1.jpg" alt="screenshot">
-                                    <br>
-                                    <h2 class="short-hr-left">ENGAGING STORY</h2>
-                                    <p>Suspendisse ultricies, dui vitae convallis blandit, ipsum sem mattis diam, in
-                                        egestas arcu lacus sed lectus. Donec at interdum tellus. Quisque pellentesque a
-                                        felis et rutrum. Donec condimentum magna sit amet viverra convallis. Fusce
-                                        accumsan efficitur orci a commodo.</p>
-                                    <img class="img-fluid" src="images/game4.2.jpg" alt="screenshot">
-                                    <br>
-                                    <h2 class="short-hr-left">INTERESTING CHARACTERS</h2>
-                                    <p>Mauris at sapien nibh. Integer id tellus vitae ante cursus pharetra. Vestibulum
-                                        ultrices eleifend enim, quis maximus nibh dapibus in. Phasellus lacinia nec leo
-                                        at semper. Duis nisl odio, lacinia quis dui at, pretium tincidunt metus.
-                                        Maecenas condimentum purus sit amet neque maximus tempor. Proin eros massa,
-                                        ullamcorper eget rutrum eu, feugiat id purus.</p>
+                                    <h2 class="short-hr-left">මේක ගහන්නම ඕනී සෙල්ලමක්</h2>
+                                    <p>You might be familiar with pillow fighting from childhood sleepovers, but in Sri Lanka, fighting with pillows is
+                                    elevated to a major athletic event. Both players balance, seated, on a wooden beam, with one hand on their pillow and
+                                    the other hand tied behind their back. When the match begins, they try to knock one another off the beam while
+                                    maintaining balance with just their legs and feet. For safety, the beam usually sits above a mattress or water to
+                                    cushion the fall of the losing player.</p>
+                                    <img src="https://2.bp.blogspot.com/-GyfsV3Up9DM/U0foSIuPQ7I/AAAAAAAAAzI/vk3LffAxcEg/s1600/20110422_AF6.jpg" alt="screenshot">
+                                    </p>
                                 </div>
                                 <div class="modal-footer">
                                     <button type="button" class="button secondary" data-dismiss="modal">Close</button>
@@ -363,90 +349,58 @@
                 </div><!-- Game Card End -->
 
                 <!-- Game Card -->
-                <div class="row game-card pc">
+                <div class="row game-card mobile new">
                     <div class="col-lg-12 col-xl-5 game-card-left">
-                        <a href="images/game1_large.jpg" data-lightbox="screenshots_aurora">
+                        <a href="https://lovely-nougat-0e9d0f.netlify.app/3" class="js-play-button" data-video-id='' data-channel="">
+                            <!-- Video link goes here -->
                             <div class="overlay">
-                                <i class="fa fa-picture-o fa-3x"></i>
+                                <i class="fa fa-play fa-3x"></i>
                             </div>
-                            <picture>
-                                <source media="(min-width: 1200px)" srcset="images/game1.jpg">
-                                <source media="(min-width: 768px)" srcset="images/game1_large.jpg">
-                                <img src="images/placeholder.jpg" data-src="images/game1.jpg" class="img-fluid b-lazy"
-                                    alt="aurora image">
-                            </picture>
+                            <img src="images/game-icons/3.webp" data-src="images/game4.jpg" class="img-fluid b-lazy"
+                                alt="video thumbnail"> <!-- Video Thumbnail Img -->
                         </a>
-                        <a href="images/game1.1.jpg" data-lightbox="screenshots_aurora"></a>
-                        <a href="images/game1.2.jpg" data-lightbox="screenshots_aurora"></a>
                     </div>
                     <div class="col-lg-12 col-xl-7 game-card-right">
-                        <h2 class="short-hr-left">AURORA AWAKENING</h2>
-                        <p class="tags"><span class="subtle">Action RPG | PC</span> </p>
-                        <p class="game-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-                            facilisis rhoncus nibh. Phasellus dignissim luctus consectetur. Fusce viverra est non purus
-                            ultrices, vel molestie massa tincidunt. <span class="expand colored strong"
-                                data-toggle="modal" data-target="#game1">Read More</span></p>
-                        <div class="steam-btn">
-                            <a href="#">
-                                <i class="fa fa-steam fa-3x"></i>
-                                <p>GET IT ON <br><span class="spaced">STEAM</span></p>
-                            </a>
-                        </div>
-                        <div class="reviews">
-                            <a href="#">
-                                <div class="score-card">
-                                    <p class="score">8.5</p>
-                                    <p>Gamespot</p>
-                                </div>
-                            </a>
-                            <a href="#">
-                                <div class="score-card">
-                                    <p class="score">8.1</p>
-                                    <p>IGN</p>
-                                </div>
-                            </a>
-                            <a href="#">
-                                <div class="score-card">
-                                    <p class="score">83</p>
-                                    <p>Metacritic</p>
-                                </div>
-                            </a>
+                        <h2 class="short-hr-left">Aliyata Asa Thebima</h2>
+                        <p class="tags"><span class="subtle">Horror Adventure | Mobile</span> </p>
+                        <p class="game-description">This is an enjoyable experience where participants are blindfolded and have to spot the elephant’s eye. <span class="expand colored strong" data-toggle="modal"
+                                data-target="#game3">Read More</span></p>
+                        <a href="#" class="button-store">
+                            <i class="fa fa-android fa-2x"></i>
+                            <p>Available on<br><span class="strong">Google Play</span></p>
+                        </a>
+                        <a href="#" class="button-store">
+                            <i class="fa fa-apple fa-2x"></i>
+                            <p>Available on<br><span class="strong">Apple Store</span></p>
+                        </a>
+                        <div class="rating">
+                            <p class="strong">4.5</p>
+                            <ul>
+                                <li><i class="fa fa-star colored"></i></li>
+                                <li><i class="fa fa-star colored"></i></li>
+                                <li><i class="fa fa-star colored"></i></li>
+                                <li><i class="fa fa-star colored"></i></li>
+                                <li><i class="fa fa-star-o"></i></li>
+                            </ul>
                         </div>
                     </div>
                     <!-- Modal -->
-                    <div class="modal fade game-modal" id="game3" tabindex="-1" role="dialog" aria-labelledby="aurora"
+                    <div class="modal fade game-modal" id="game3" tabindex="-1" role="dialog" aria-labelledby="bedlam"
                         aria-hidden="true">
                         <div class="modal-dialog modal-lg" role="document">
                             <div class="modal-content">
                                 <div class="modal-header">
-                                    <h1 class="modal-title" id="aurora">AURORA AWAKENING</h1>
+                                    <h1 class="modal-title" id="bedlam">Placing the eye on the elephant</h1>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                         <span aria-hidden="true">&times;</span>
                                     </button>
                                 </div>
                                 <div class="modal-body">
-                                    <iframe class="modal-vid"
-                                        src="https://www.youtube.com/embed/DPBW_MFqeRs?rel=0&amp;showinfo=0"
-                                        allowfullscreen></iframe>
-                                    <h2 class="short-hr-left">EXPLORE AN EXPANSIVE WORLD</h2>
-                                    <p>Integer eget diam felis. Quisque et aliquet lectus, et lacinia turpis. Praesent
-                                        eget pretium orci. Sed vestibulum rutrum volutpat. Curabitur feugiat arcu odio,
-                                        quis convallis eros laoreet ac.</p>
-                                    <img class="img-fluid" src="images/game1.1.jpg" alt="screenshot">
-                                    <br>
-                                    <h2 class="short-hr-left">ADAPT AND DEVELOP YOUR CHARACTER</h2>
-                                    <p>Suspendisse ultricies, dui vitae convallis blandit, ipsum sem mattis diam, in
-                                        egestas arcu lacus sed lectus. Donec at interdum tellus. Quisque pellentesque a
-                                        felis et rutrum. Donec condimentum magna sit amet viverra convallis. Fusce
-                                        accumsan efficitur orci a commodo.</p>
-                                    <img class="img-fluid" src="images/game1.2.jpg" alt="screenshot">
-                                    <br>
-                                    <h2 class="short-hr-left">GET IMMERSED IN A DEEP STORY</h2>
-                                    <p>Mauris at sapien nibh. Integer id tellus vitae ante cursus pharetra. Vestibulum
-                                        ultrices eleifend enim, quis maximus nibh dapibus in. Phasellus lacinia nec leo
-                                        at semper. Duis nisl odio, lacinia quis dui at, pretium tincidunt metus.
-                                        Maecenas condimentum purus sit amet neque maximus tempor. Proin eros massa,
-                                        ullamcorper eget rutrum eu, feugiat id purus.</p>
+                                    <h2 class="short-hr-left">අලියට ඇස තැබීම</h2>
+                                    <p>Placing the eye on the elephant-(Aliyata asa thabeema)</p>
+                                    <img src="https://archives1.sundayobserver.lk/sites/default/files/news/2017/04/05/z_jun-p06-Placing-the-eye.jpg"
+                                        alt="screenshot">
+                                    </p>
                                 </div>
                                 <div class="modal-footer">
                                     <button type="button" class="button secondary" data-dismiss="modal">Close</button>
@@ -454,7 +408,7 @@
                             </div>
                         </div>
                     </div>
-                </div><!-- Game Card End -->
+                </div><!-- Game Card End --><!-- Game Card End -->
 
                 <!-- Game Card -->
                 <div class="row game-card mobile">
@@ -512,7 +466,7 @@
                                 </div>
                                 <div class="modal-body">
                                     <iframe class="modal-vid"
-                                        src="https://www.youtube.com/embed/73vSguCeJl0?rel=0&amp;showinfo=0"
+                                        src=""
                                         allowfullscreen></iframe>
                                     <h2 class="short-hr-left">EXPLORE AN EXPANSIVE WORLD</h2>
                                     <p>Integer eget diam felis. Quisque et aliquet lectus, et lacinia turpis. Praesent
