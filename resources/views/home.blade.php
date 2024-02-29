@@ -536,10 +536,10 @@
                     </div>
                     <div class="col-md-3 team-card">
                         <figure>
-                            <img src="images/placeholder.jpg" data-src="images/team2.jpg" class="img-fluid b-lazy"
+                            <img src="images/team/hirusha.jpg" data-src="images/team2.jpg" class="img-fluid b-lazy"
                                 alt="teammember">
                             <figcaption class="team-caption">
-                                <p>“Lorem ipsum dolor sit amet, consectetur adipiscing elit.”</p>
+                                <p>Hi follow me everywhere</p>
                                 <hr class="hr-short">
                                 <ul>
                                     <li><a href="#"><i class="fa fa-facebook fa-lg"></i></a></li>
@@ -548,15 +548,15 @@
                                 </ul>
                             </figcaption>
                         </figure>
-                        <p class="team-name">Asimov R.</p>
-                        <p class="subtle">Founder</p>
+                        <p class="team-name">Chamodya Hirusha</p>
+                        <p class="subtle">CTO</p>
                     </div>
                     <div class="col-md-3 team-card">
                         <figure>
-                            <img src="images/placeholder.jpg" data-src="images/team3.jpg" class="img-fluid b-lazy"
+                            <img src="images/team/damindu.jpg" data-src="images/team3.jpg" class="img-fluid b-lazy"
                                 alt="teammember">
                             <figcaption class="team-caption">
-                                <p>“Lorem ipsum dolor sit amet, consectetur adipiscing elit.”</p>
+                                <p>Hi follow me everywhere</p>
                                 <hr class="hr-short">
                                 <ul>
                                     <li><a href="#"><i class="fa fa-facebook fa-lg"></i></a></li>
@@ -565,15 +565,15 @@
                                 </ul>
                             </figcaption>
                         </figure>
-                        <p class="team-name">Natalia I.</p>
+                        <p class="team-name">Damindu H.</p>
                         <p class="subtle">Lead Artist</p>
                     </div>
                     <div class="col-md-3 team-card">
                         <figure>
-                            <img src="images/placeholder.jpg" data-src="images/team4.jpg" class="img-fluid b-lazy"
+                            <img src="images/team/vidura.png" data-src="images/team4.jpg" class="img-fluid b-lazy"
                                 alt="teammember">
                             <figcaption class="team-caption">
-                                <p>“Lorem ipsum dolor sit amet, consectetur adipiscing elit.”</p>
+                                <p>Hi follow me everywhere</p>
                                 <hr class="hr-short">
                                 <ul>
                                     <li><a href="#"><i class="fa fa-facebook fa-lg"></i></a></li>
@@ -582,8 +582,144 @@
                                 </ul>
                             </figcaption>
                         </figure>
-                        <p class="team-name">Dimitri A.</p>
-                        <p class="subtle">Programmer</p>
+                        <p class="team-name">Vidura S.</p>
+                        <p class="subtle">Concept Architect</p>
+                    </div>
+                </div>
+                <div id="full-row" class="row text-center">
+                    <div class="col-md-3 team-card">
+                        <figure>
+                            <img src="images/team/Hasith.jpg" data-src="images/team1.jpg" class="img-fluid b-lazy" alt="teammember">
+                            <figcaption class="team-caption">
+                                <p>
+                                    find me everywhere
+                                </p>
+                                <hr class="hr-short">
+                                <ul>
+                                    <li><a href="#"><i class="fa fa-facebook fa-lg"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-twitter fa-lg"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-linkedin fa-lg"></i></a></li>
+                                </ul>
+                            </figcaption>
+                        </figure>
+                        <p class="team-name">Hasith D.</p>
+                        <p class="subtle">Game dev</p>
+                    </div>
+                    <div class="col-md-3 team-card">
+                        <figure>
+                            <img src="images/team/imesh.jpg" data-src="images/team2.jpg" class="img-fluid b-lazy" alt="teammember">
+                            <figcaption class="team-caption">
+                                <p>Hi follow me everywhere</p>
+                                <hr class="hr-short">
+                                <ul>
+                                    <li><a href="#"><i class="fa fa-facebook fa-lg"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-twitter fa-lg"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-linkedin fa-lg"></i></a></li>
+                                </ul>
+                            </figcaption>
+                        </figure>
+                        <p class="team-name">Imesh Nadun</p>
+                        <p class="subtle">3D Model Architect</p>
+                    </div>
+                    <div class="col-md-3 team-card">
+                        <figure>
+                            <img src="images/team/pavindu.png" data-src="images/team3.jpg" class="img-fluid b-lazy" alt="teammember">
+                            <figcaption class="team-caption">
+                                <p>Hi follow me everywhere</p>
+                                <hr class="hr-short">
+                                <ul>
+                                    <li><a href="#"><i class="fa fa-facebook fa-lg"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-twitter fa-lg"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-linkedin fa-lg"></i></a></li>
+                                </ul>
+                            </figcaption>
+                        </figure>
+                        <p class="team-name">Pavindu Shehara</p>
+                        <p class="subtle">Game Dev</p>
+                    </div>
+                    <div class="col-md-3 team-card">
+                        <figure>
+                            <img src="images/team/chalani.jpg" data-src="images/team4.jpg" class="img-fluid b-lazy" alt="teammember">
+                            <figcaption class="team-caption">
+                                <p>Hi follow me everywhere</p>
+                                <hr class="hr-short">
+                                <ul>
+                                    <li><a href="#"><i class="fa fa-facebook fa-lg"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-twitter fa-lg"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-linkedin fa-lg"></i></a></li>
+                                </ul>
+                            </figcaption>
+                        </figure>
+                        <p class="team-name">Chalani Janeesha</p>
+                        <p class="subtle">Level Designer</p>
+                    </div>
+                </div>
+                <div id="full-row" class="row text-center">
+                    <div class="col-md-3 team-card">
+                        <figure>
+                            <img src="images/team/anuja.jpg" data-src="images/team1.jpg" class="img-fluid b-lazy" alt="teammember">
+                            <figcaption class="team-caption">
+                                <p>
+                                    find me everywhere
+                                </p>
+                                <hr class="hr-short">
+                                <ul>
+                                    <li><a href="#"><i class="fa fa-facebook fa-lg"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-twitter fa-lg"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-linkedin fa-lg"></i></a></li>
+                                </ul>
+                            </figcaption>
+                        </figure>
+                        <p class="team-name">Anuja R.</p>
+                        <p class="subtle">Storyteller</p>
+                    </div>
+                    <div class="col-md-3 team-card">
+                        <figure>
+                            <img src="images/team/hansana.jpg" data-src="images/team2.jpg" class="img-fluid b-lazy" alt="teammember">
+                            <figcaption class="team-caption">
+                                <p>Hi follow me everywhere</p>
+                                <hr class="hr-short">
+                                <ul>
+                                    <li><a href="#"><i class="fa fa-facebook fa-lg"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-twitter fa-lg"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-linkedin fa-lg"></i></a></li>
+                                </ul>
+                            </figcaption>
+                        </figure>
+                        <p class="team-name">Hansana M.</p>
+                        <p class="subtle">Software Engineer</p>
+                    </div>
+                    <div class="col-md-3 team-card">
+                        <figure>
+                            <img src="images/team/madawa.jpg" data-src="images/team3.jpg" class="img-fluid b-lazy" alt="teammember">
+                            <figcaption class="team-caption">
+                                <p>Hi follow me everywhere</p>
+                                <hr class="hr-short">
+                                <ul>
+                                    <li><a href="#"><i class="fa fa-facebook fa-lg"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-twitter fa-lg"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-linkedin fa-lg"></i></a></li>
+                                </ul>
+                            </figcaption>
+                        </figure>
+                        <p class="team-name">Madawa Vishwajith</p>
+                        <p class="subtle">QA Engineer</p>
+                    </div>
+                    <div class="col-md-3 team-card">
+                        <figure>
+                            <img src="images/team/pahan.jpg" data-src="images/team4.jpg" class="img-fluid b-lazy" alt="teammember">
+                            <figcaption class="team-caption">
+                                <p>Hi follow me everywhere</p>
+                                <hr class="hr-short">
+                                <ul>
+                                    <li><a href="#"><i class="fa fa-facebook fa-lg"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-twitter fa-lg"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-linkedin fa-lg"></i></a></li>
+                                </ul>
+                            </figcaption>
+                        </figure>
+                        <p class="team-name">Pahan Kalhara</p>
+                        <p class="subtle">Cyber Security Engineer</p>
                     </div>
                 </div>
             </div>
