@@ -55,7 +55,7 @@
 <body>
     <!-- Loading Screen -->
     <div id="loader-wrapper">
-        <h1 class="loader-logo"><span class="colored">Hela</span>Play<br>studio inc</h1>
+        <h1 class="loader-logo"><span class="colored">Hela</span>Play<br>studio <span class="colored">inc</span></h1>
         <div id="progress"></div>
         <h3 class="loader-text">LOADING</h3>
     </div>
@@ -126,18 +126,18 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-6">
+                <div class="col-md-7">
                     <h2>Welcome to Helaplay Studio INC!</h2>
                     
                     <p>At Helaplay Studio INC, we are dedicated to crafting immersive and unforgettable gaming experiences that resonate with
                     players worldwide. Our journey began with a shared passion for gaming and a vision to redefine interactive
                     entertainment.
                     </p>
-                    <h3>Our Mission</h3>
+                    <h3><b>Our Mission</b></h3>
                     
-                    Our mission at Helaplay Studio INC is to push the boundaries of gaming excellence. We are committed to creating
+                    <P>Our mission at Helaplay Studio INC is to push the boundaries of gaming excellence. We are committed to creating
                     captivating worlds, compelling narratives, and groundbreaking gameplay mechanics that captivate players and leave a
-                    lasting impression.
+                    lasting impression.</P>
                     
                     <h3>Our Vision</h3>
                     
@@ -165,10 +165,10 @@
                     the world of gaming.
                     
                 </div>
-                <div class="col-md-6">
-                    <img id="support-image" src="images/company.jpg" data-src="images/digital_collage.png" class="img-fluid b-lazy" alt="digital collage"> <br>
-                    
-                </div> 
+                <div class="col-md-5">
+                    <img src="images/66467.jpg" alt="">
+                </div>
+                
                 
             </div>
         </div>
@@ -201,7 +201,7 @@
             <div class="games-portfolio ">
                 <!-- Game Card Video -->
                 <div class="row game-card pc new">
-                    <div class="col-lg-12 col-xl-5 game-card-left">
+                    <div class="col-lg-12 col-xl-5 game-card-left mobile">
                         <a href="https://lovely-nougat-0e9d0f.netlify.app/1" class="js-play-button" data-video-id='' data-channel="">
                             <!-- Video link goes here -->
                             <div class="overlay">
@@ -410,91 +410,6 @@
                     </div>
                 </div><!-- Game Card End --><!-- Game Card End -->
 
-                <!-- Game Card -->
-                <div class="row game-card mobile">
-                    <div class="col-lg-12 col-xl-5 game-card-left">
-                        <a href="images/game2_large.jpg" data-lightbox="screenshots_dark">
-                            <div class="overlay">
-                                <i class="fa fa-picture-o fa-3x"></i>
-                            </div>
-                            <picture>
-                                <source media="(min-width: 1200px)" srcset="images/game2.jpg">
-                                <source media="(min-width: 768px)" srcset="images/game2_large.jpg">
-                                <img src="images/placeholder.jpg" data-src="images/game2.jpg" class="img-fluid b-lazy"
-                                    alt="aurora image">
-                            </picture>
-                        </a>
-                        <a href="images/game2.1.jpg" data-lightbox="screenshots_dark"></a>
-                        <a href="images/game2.2.jpg" data-lightbox="screenshots_dark"></a>
-                    </div>
-                    <div class="col-lg-12 col-xl-7 game-card-right">
-                        <h2 class="short-hr-left">ECHO - DARK ADVENTURES</h2>
-                        <p class="tags"><span class="subtle">Adventure | Mobile</span></p>
-                        <p class="game-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-                            facilisis rhoncus nibh. Phasellus dignissim luctus consectetur. Fusce viverra est non purus
-                            ultrices, vel molestie massa tincidunt. <span class="expand colored strong"
-                                data-toggle="modal" data-target="#game2">Read More</span></p>
-                        <a href="#" class="button-store">
-                            <i class="fa fa-android fa-2x"></i>
-                            <p>Available on<br><span class="strong">Google Play</span></p>
-                        </a>
-                        <a href="#" class="button-store">
-                            <i class="fa fa-apple fa-2x"></i>
-                            <p>Available on<br><span class="strong">Apple Store</span></p>
-                        </a>
-                        <div class="rating">
-                            <p class="strong">4.1</p>
-                            <ul>
-                                <li><i class="fa fa-star colored"></i></li>
-                                <li><i class="fa fa-star colored"></i></li>
-                                <li><i class="fa fa-star colored"></i></li>
-                                <li><i class="fa fa-star colored"></i></li>
-                                <li><i class="fa fa-star-o"></i></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <!-- Modal -->
-                    <div class="modal fade game-modal" id="game4" tabindex="-1" role="dialog" aria-labelledby="echo"
-                        aria-hidden="true">
-                        <div class="modal-dialog modal-lg" role="document">
-                            <div class="modal-content">
-                                <div class="modal-header">
-                                    <h1 class="modal-title" id="echo">ECHO - DARK ADVENTURES</h1>
-                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
-                                </div>
-                                <div class="modal-body">
-                                    <iframe class="modal-vid"
-                                        src=""
-                                        allowfullscreen></iframe>
-                                    <h2 class="short-hr-left">EXPLORE AN EXPANSIVE WORLD</h2>
-                                    <p>Integer eget diam felis. Quisque et aliquet lectus, et lacinia turpis. Praesent
-                                        eget pretium orci. Sed vestibulum rutrum volutpat. Curabitur feugiat arcu odio,
-                                        quis convallis eros laoreet ac.</p>
-                                    <img class="img-fluid" src="images/game2.1.jpg" alt="screenshot">
-                                    <br>
-                                    <h2 class="short-hr-left">GET IMMERSED IN A FANTASTIC STORY</h2>
-                                    <p>Suspendisse ultricies, dui vitae convallis blandit, ipsum sem mattis diam, in
-                                        egestas arcu lacus sed lectus. Donec at interdum tellus. Quisque pellentesque a
-                                        felis et rutrum. Donec condimentum magna sit amet viverra convallis. Fusce
-                                        accumsan efficitur orci a commodo.</p>
-                                    <img class="img-fluid" src="images/game2.2.jpg" alt="screenshot">
-                                    <br>
-                                    <h2 class="short-hr-left">ADAPT AND DEVELOP YOUR CHARACTER</h2>
-                                    <p>Mauris at sapien nibh. Integer id tellus vitae ante cursus pharetra. Vestibulum
-                                        ultrices eleifend enim, quis maximus nibh dapibus in. Phasellus lacinia nec leo
-                                        at semper. Duis nisl odio, lacinia quis dui at, pretium tincidunt metus.
-                                        Maecenas condimentum purus sit amet neque maximus tempor. Proin eros massa,
-                                        ullamcorper eget rutrum eu, feugiat id purus.</p>
-                                </div>
-                                <div class="modal-footer">
-                                    <button type="button" class="button secondary" data-dismiss="modal">Close</button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div><!-- Game Card End -->
             </div>
         </div>
         <!-- /// TEAM SECTION /// -->
@@ -724,13 +639,49 @@
                 </div>
             </div>
             <div class="row tiny-margin">
-                <div class="col-md-11">
-                    <h2 class="short-hr-left">OUR STUDIO</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tincidunt, nisl non mattis
-                        sollicitudin, risus quam tempor sem, vel interdum est libero non odio.</p>
+                <div class="col-md-7">
+                    <h1 class="short-hr-left">OUR STUDIO</h1>
+                    <h2>Welcome to Helaplay Studio INC</h2>
+                    
+                    <p>Step inside the heart of creativity and innovation at Helaplay Studio INC. Our studio is more than just a workspace;
+                    it's a hub of inspiration where ideas come to life and dreams take flight. Take a virtual tour below and discover the
+                    magic behind the games we create.</p>
+                    
+                    <h2>State-of-the-Art Facilities</h2>
+                    
+                    <p>Our studio boasts state-of-the-art facilities designed to foster collaboration and creativity. From sleek workstations
+                    equipped with cutting-edge technology to cozy breakout areas where ideas flow freely, our studio provides the perfect
+                    environment for innovation to thrive.</p>
+                    
+                    <h2>Creative Spaces</h2>
+                    
+                    <p>Immerse yourself in our creative spaces, where artistry meets technology to shape the worlds of tomorrow. From concept
+                    art and character design to 3D modeling and animation, our talented artists bring our games to life with skill, passion,
+                    and attention to detail.</p>
+                    
+                    <h2>Development Areas</h2>
+                    
+                    <p>Step into our development areas, where coding wizards and gameplay gurus work their magic to create unforgettable gaming
+                    experiences. With access to the latest tools and technologies, our developers push the boundaries of what's possible,
+                    crafting innovative gameplay mechanics that keep players coming back for more.</p>
+                    
+                    <h2>Collaborative Environment</h2>
+                    
+                    <p>At Helaplay Studio INC, collaboration is key. Our open-plan layout encourages communication and teamwork, fostering a
+                    culture of creativity and innovation. Whether brainstorming ideas for a new project or fine-tuning the details of an
+                    upcoming release, our team works together to achieve greatness.</p>
+                    
+                    <h2>Passion for Gaming</h2>
+                    
+                    <p>Above all, our studio is fueled by a passion for gaming. From the moment you step through our doors, you'll feel the
+                    energy and excitement that drives us to create the best games possible. Join us on our journey as we continue to push
+                    the boundaries of interactive entertainment and redefine the future of gaming.</p>
+                </div>
+                <div class="col-md-5">
+                    <img src="images/6259.jpg" alt="">
                 </div>
             </div>
-            <div class="grid-gallery">
+            <!-- <div class="grid-gallery">
                 <div class="row">
                     <div class="col-md-4 gallery-item">
                         <a href="images/img1.jpg" data-lightbox="studio_gallery">
@@ -789,7 +740,7 @@
                         </a>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
         <!-- /// CAREERS SECTION /// -->
         <div id="careers" class='large-margin'>
@@ -805,14 +756,14 @@
             <div class="row medium-margin">
                 <div class="col-md-11">
                     <h2 class="short-hr-left">JOB OPENINGS</h2>
-                    <p>Are you a talented and motivated individual? Then we would love to have you in our team. Lorem
-                        ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tincidunt, nisl non mattis
-                        sollicitudin, risus quam tempor sem, vel interdum est libero non odio.</p><br>
+                    <p>Are you passionate about gaming and eager to make your mark in the industry? Helaplay Studio INC is seeking talented
+                    individuals to join our dynamic team of developers, artists, and visionaries. If you're ready to unleash your creativity
+                    and help shape the future of interactive entertainment, we want to hear from you!</p><br>
                 </div>
                 <div class="col-md-4">
                     <div class="job-card">
                         <h3 class="colored">LEAD PROGRAMMER</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                        <p>Lead engineering team, drive innovation, shape future of gaming, join us!</p>
                         <button class="button" data-toggle="modal" data-target="#modal1">View Details</button>
                     </div>
                     <!-- Modal -->
@@ -828,9 +779,7 @@
                                 </div>
                                 <div class="modal-body">
                                     <h3>THE IDEAL CANDIDATE:</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tincidunt,
-                                        nisl non mattis sollicitudin, risus quam tempor sem, vel interdum est libero non
-                                        odio.</p>
+                                    <p>Lead engineering team, drive innovation, shape future of gaming, join us!</p>
                                     <ul class="skill-list">
                                         <li>C++</li>
                                         <li>Dream Weaver</li>
@@ -863,11 +812,11 @@
                                     <br>
                                     <h3>HOW TO APPLY:</h3>
                                     <p>If you think you have what it takes to join our team you an apply here <a
-                                            href="mailto:office@example.com">office@example.com</a></p>
+                                            href="mailto:helasoftlk@gmail.com">helasoftlk@gmail.com</a></p>
                                 </div>
                                 <div class="modal-footer">
                                     <button type="button" class="button secondary" data-dismiss="modal">Close</button>
-                                    <a href="mailto:office@example.com" class="button">Apply</a>
+                                    <a href="mailto:helasoftlk@gmail.com" class="button">Apply</a>
                                 </div>
                             </div>
                         </div>
@@ -876,7 +825,7 @@
                 <div class="col-md-4">
                     <div class="job-card">
                         <h3 class="colored">LEVEL DESIGNER</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                        <p>Design captivating game levels, create immersive player experiences, join our team!</p>
                         <button class="button" data-toggle="modal" data-target="#modal2">View Details</button>
                     </div>
                     <!-- Modal -->
@@ -892,9 +841,7 @@
                                 </div>
                                 <div class="modal-body">
                                     <h3>THE IDEAL CANDIDATE:</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tincidunt,
-                                        nisl non mattis sollicitudin, risus quam tempor sem, vel interdum est libero non
-                                        odio.</p>
+                                    <p>Craft immersive game worlds, shape player experiences, join our team!</p>
                                     <ul class="skill-list">
                                         <li>C++</li>
                                         <li>Dream Weaver</li>
@@ -927,11 +874,11 @@
                                     <br>
                                     <h3>HOW TO APPLY:</h3>
                                     <p>If you think you have what it takes to join our team you an apply here <a
-                                            href="mailto:office@example.com">office@example.com</a></p>
+                                            href="mailto:helasoftlk@gmail.com">helasoftlk@gmail.com</a></p>
                                 </div>
                                 <div class="modal-footer">
                                     <button type="button" class="button secondary" data-dismiss="modal">Close</button>
-                                    <a href="mailto:office@example.com" class="button">Apply</a>
+                                    <a href="mailto:helasoftlk@gmail.com" class="button">Apply</a>
                                 </div>
                             </div>
                         </div>
@@ -940,7 +887,7 @@
                 <div class="col-md-4">
                     <div class="job-card">
                         <h3 class="colored">AI ENGINEER</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                        <p>Develop cutting-edge AI solutions for groundbreaking gaming experiences, join us!</p>
                         <button class="button" data-toggle="modal" data-target="#modal3">View Details</button>
                     </div>
                     <!-- Modal -->
@@ -956,9 +903,7 @@
                                 </div>
                                 <div class="modal-body">
                                     <h3>THE IDEAL CANDIDATE:</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tincidunt,
-                                        nisl non mattis sollicitudin, risus quam tempor sem, vel interdum est libero non
-                                        odio.</p>
+                                    <p>Develop cutting-edge AI solutions for groundbreaking gaming experiences, join us!</p>
                                     <ul class="skill-list">
                                         <li>C++</li>
                                         <li>Dream Weaver</li>
@@ -991,11 +936,11 @@
                                     <br>
                                     <h3>HOW TO APPLY:</h3>
                                     <p>If you think you have what it takes to join our team you an apply here <a
-                                            href="mailto:office@example.com">office@example.com</a></p>
+                                            href="mailto:helasoftlk@gmail.com">helasoftlk@gmail.com</a></p>
                                 </div>
                                 <div class="modal-footer">
                                     <button type="button" class="button secondary" data-dismiss="modal">Close</button>
-                                    <a href="mailto:office@example.com" class="button">Apply</a>
+                                    <a href="mailto:helasoftlk@gmail.com" class="button">Apply</a>
                                 </div>
                             </div>
                         </div>
@@ -1028,9 +973,8 @@
             <div class="">
                 <div class="row small-margin">
                     <div class="col-md-11">
-                        <p>We would love to hear from you. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                            Integer viverra laoreet dolor sit amet blandit. Ut suscipit nisl ut risus volutpat
-                            malesuada.</p>
+                        <p>We would love to hear from you. Interested in seeing our studio in person? Schedule a visit by contacting us at the email or phone number provided
+                        above. We'd love to show you around and share our passion for gaming!.</p>
                     </div>
                 </div>
                 <div class="row">
@@ -1067,25 +1011,25 @@
                         <div id="contact-info">
                             <ul>
                                 <li><i class="fa fa-phone"></i>
-                                    <p>Phone: <span class="colored"><a href="tel:+1(803)635585">+1 (803) 635
-                                                585</a></span></p>
+                                    <p>Phone: <span class="colored"><a href="tel:+94710351156">+9471 035 1156</a></span></p>
                                 </li>
                                 <li><i class="fa fa-envelope"></i>
-                                    <p>Email: <span class="colored"><a
-                                                href="mailto:office@example.com">office@example.com</a></span></p>
+                                    <p>Email: <span class="colored"><a href="mailto:helasoftlk@gmail.com">helasoftlk@gmail.com</a></span></p>
                                 </li>
                                 <li><i class="fa fa-globe"></i>
-                                    <p>Website: <span class="colored"><a href="www.atypicalthemes.html"
-                                                target="_blank">www.atypicalthemes.com</a></span></p>
+                                    <p>Website: <span class="colored"><a href="https://helaplay.timelesstechkorea.io/" style="color: orange;">helaplay.timelesstechkorea.io</a></span></p>
                                 </li>
                                 <li><i class="fa fa-map-marker"></i>
-                                    <p>Address: <span class="colored">1168 12th Street East Oconomowoc, WI 53066</span>
+                                    <p>Address: <span class="colored">200/3, Ambalanpitiya, Kurunegala</span>
                                     </p>
                                 </li>
                             </ul>
                         </div>
                         <!-- Google Map -->
-                        <div id="map-canvas"></div>
+                        <div><iframe
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15823.702344899664!2d80.37699915!3d7.4734698999999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae33942d0b92fb3%3A0xb1e86979b11e3bff!2sIH%20Possible%20Ideas.lk!5e0!3m2!1sen!2ssg!4v1709205745552!5m2!1sen!2ssg"
+                            width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"
+                            referrerpolicy="no-referrer-when-downgrade"></iframe></div>
                     </div>
                 </div>
             </div>
@@ -1097,7 +1041,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <p id="copyright">&copy; Atypical Themes <span id="year"> </span></p><!-- Copyright Text -->
+                        <p id="copyright">Design by &copy; Ishara Lakshitha <span id="year"> </span></p><!-- Copyright Text -->
                         <ul class="social-links"> <!-- Social Media Icons -->
                             <li><a href="#"><i class="fa fa-facebook fa-lg icon-social"></i></a></li>
                             <li><a href="#"><i class="fa fa-twitter  fa-lg icon-social"></i></a></li>

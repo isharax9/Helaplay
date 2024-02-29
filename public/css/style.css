@@ -1000,4 +1000,8 @@ button {
     .button-store:nth-of-type(2) {
         float: none;
     }
+.link{
+   background-color: red; 
+}
+
 }
