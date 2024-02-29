@@ -485,7 +485,7 @@
                     </div>
                     <div class="col-md-3 team-card">
                         <figure>
-                            <img src="images/team/vidura.png" data-src="images/team4.jpg" class="img-fluid b-lazy"
+                            <img src="images/team/vidura1.png" data-src="images/team4.jpg" class="img-fluid b-lazy"
                                 alt="teammember">
                             <figcaption class="team-caption">
                                 <p>Hi follow me everywhere</p>
@@ -538,7 +538,7 @@
                     </div>
                     <div class="col-md-3 team-card">
                         <figure>
-                            <img src="images/team/pavindu.png" data-src="images/team3.jpg" class="img-fluid b-lazy" alt="teammember">
+                            <img src="images/team/pavindu1.png" data-src="images/team3.jpg" class="img-fluid b-lazy" alt="teammember">
                             <figcaption class="team-caption">
                                 <p>Hi follow me everywhere</p>
                                 <hr class="hr-short">
